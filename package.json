@@ -1,0 +1,52 @@
+{
+  "_from": "git+https://github.com/SujitSingh/cordova-plugin-proguard.git",
+  "_id": "cordova-plugin-proguard@1.0.0",
+  "_inBundle": false,
+  "_location": "/cordova-plugin-proguard",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/SujitSingh/cordova-plugin-proguard",
+    "rawSpec": "https://github.com/SujitSingh/cordova-plugin-proguard",
+    "saveSpec": "git+https://github.com/SujitSingh/cordova-plugin-proguard.git",
+    "fetchSpec": "https://github.com/SujitSingh/cordova-plugin-proguard.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/SujitSingh/cordova-plugin-proguard.git#9ad0e5d9175525faab5285c42aecce1ad3d17b69",
+  "_spec": "https://github.com/SujitSingh/cordova-plugin-proguard",
+  "_where": "/Users/samithakahawala/Desktop/imobile/imobilev2",
+  "author": {
+    "name": "Aleksandr Filatov",
+    "email": "greybax@gmail.com",
+    "url": "https://alfilatov.com"
+  },
+  "bugs": {
+    "url": "https://github.com/greybax/cordova-plugin-proguard/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Cordova plugin for ProGuard",
+  "homepage": "https://github.com/greybax/cordova-plugin-proguard#readme",
+  "keywords": [
+    "proguard",
+    "android",
+    "optimize",
+    "shrink",
+    "minify",
+    "obfuscate",
+    "tool",
+    "cordova",
+    "plugin"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-proguard",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greybax/cordova-plugin-proguard.git"
+  },
+  "version": "1.0.0"
+}
